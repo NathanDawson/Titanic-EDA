@@ -7,3 +7,8 @@ I started by describing the variables in the dataset, such as age, port of embar
 The analysis revealed that certain factors, such as passenger class, played a crucial role in determining survival rates. Additionally, age seemed to impact survival chances. These findings offered important insights into the events surrounding the Titanic disaster and highlighted the disparities in survival rates across different groups.
 
 Overall, this EDA provided a comprehensive understanding of the dataset and enriched my knowledge of the Titanic disaster, shedding light on the human stories and dynamics that unfolded during that tragic event.
+
+<br>
+
+To view the Jupyter Notebook, <br>
+Click <a href='https://nbviewer.org/github/NathanDawson/Titanic-EDA/blob/main/Titanic-Analysis.ipynb'>here</a>
